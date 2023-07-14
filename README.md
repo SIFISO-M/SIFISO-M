@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SIFISO-M
-- 👀 I’m interested in musicand good food 
-- 🌱 I’m currently learning data science in python
-- 💞️ I’m looking to collaborate on python projects that will both challenge and enrich me.
+- 👋 Hi, I’m Sifiso Mgidi
+- 👀 I’m interested in good music and nice food.
+- 🌱 I’m currently learning data science in python and exposing myself to some bit of java
+- 💞️ I’m looking to collaborate on python  and java projects that will both challenge and enrich me.
 - 📫 How to reach me sifisozmgidi@gmail.com
 
 <!---
